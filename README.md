@@ -51,7 +51,7 @@ There is no precise place to mount this little platform, it is meant to have fle
 
 
 ## Word Keys
-We type the words "the" and "and" a lot. Even more-so when you count them when they are just part of another word (Like *the*m, *the*y, or ano*the*r). So this keyboard just gives *the*m *the*ir own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
+We type the words "THE" and "AND" a lot. Even more-so when you count them when they are just part of another word (Like *THE*m, *THE*y, or ano*THE*r). So this keyboard just gives *THE*m *THE*ir own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
 
 
 ## Optional key risers
