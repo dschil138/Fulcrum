@@ -79,4 +79,7 @@ Most keys have optional risers to help them conform to the shape of your hand. E
 To use them, print the top plate of the case as normal, and just superglue the risers on top. The switches should friction fit into the risers.
 
 ## Wiring
-While this is a split keyboard, I have chosen to hard-wire the halves together. You can follow my wiring if you'd like, or if you want to use a TRRS cable to connect the halves, KMK does offer I2C connection it's official firmware (I have removed it here - see Combos section)
+While this is a split keyboard, I have chosen to hard-wire the halves together. You can follow my wiring if you'd like, or if you want to use a TRRS cable to connect the halves, KMK does offer I2C connection functionality.
+
+### Hotswap Sockets
+There is no PCB for this keyboard, it is a hand-wired build. However, I have made printable hotswap socket holder so that you can still change out the key switches as you want. You can both MX and Choc versions on my [Printables](https://www.printables.com/model/284057-hot-swap-socket-holders) profile. 
