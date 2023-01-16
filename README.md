@@ -39,7 +39,7 @@ The same is true with the 5-way switch joysticks on the thumbs. They are effortl
 
 This is the most essential feature of the Fulcrum design. Each side has a small 5-way switch joystick, which is mounted sideways so that the top joystick rests against the pad of your thumb as it rests on the "home" thumb key. This provides a wide range of ergonomic movements to utilize on each thumb. 
 
-![Photo of the Fulcrum Keyboard](fulcrum-detail-1-web.jpg "")
+![Photo of the Fulcrum Keyboard](photos/fulcrum-detail-1-web.jpg "")
 
 You should experiment with different functions to find what works for you, but here are some useful tips:
 1. Pressing "down" (towards the desk) on the joystick should be a layer switch while held. This is because it is the easiest motion to hold while also pressing other keys on the keyboard.
