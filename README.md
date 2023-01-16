@@ -16,22 +16,22 @@ The same is true with the 5-way switch joysticks on the thumbs. They are effortl
 
 ## Firmware
 
-This keyboard runs on KMK firmware, which you can get [here](https://github.com/KMKfw/kmk_firmware). My code.py and keyboard.py files are in this repo. Feel free to use or alter them as you want.
+This keyboard runs on KMK firmware, which you can get [here](https://github.com/KMKfw/kmk_firmware). My code.py and kb.py files are in this repo. Feel free to use or alter them as you want.
 
 
 ### Bill Of Materials
 
 | Part      | Quantity | Notes| 
 | :-------------- | :---: | :------ |
-| nRF52840 Microcontroller | 01 | I recommend either the Adafruit nRF52340 [Itsy Bitsy](https://www.adafruit.com/product/4481) version or the [Feather](https://www.adafruit.com/product/4062) version.|
+| nRF52840 Microcontroller | 1 | I recommend either the Adafruit nRF52340 [Itsy Bitsy](https://www.adafruit.com/product/4481) version or the [Feather](https://www.adafruit.com/product/4062) version.|
 | Choc key switch | 4 | For thumb keys|
 | MX style key switches    | 16 | for non-thumb keys |
 | Diodes  | 38 |  |
 | EC11 Rotary Encoders | 2 | EC11 recommended, but you do you|
-| 5-Way Switches   | 02 | |
-| On/Off switch    | 01 | |
+| 5-Way Switches   | 2 | |
+| On/Off switch    | 1 | |
 | USB-C Breakout Board   | 1 | (optional)|
-| Lipo battery    | 01 | At least 1000 mAh |
+| Lipo battery    | 1 | At least 1000 mAh |
 | Wire      | -- | Recommend 30AWG or 28AWG|
 
 
@@ -68,7 +68,7 @@ If you want to add more combos, you will have to delete some that are already th
 I find rotary encoders to be very useful, so this keyboard includes two of them. similarly to the key risers, the encoders use an extra "cap" to angle the encoders into a more ergonomic position and to give a little extra clearance so that the rest of the case can remain more low profile.
 
 ## Word Keys
-In addition to having combos for certain words, there are also a couple words that get their own dedicated key in this layout. 
+In addition to having combos for certain words, there are also a couple words that get their own dedicated keys in this layout. 
 
 We type the words "the" and "and" a lot. Even more-so when you count them when they appear as part of another word (*the*m, *the*y, or ano*the*r). So this keyboard just gives them their own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
 
