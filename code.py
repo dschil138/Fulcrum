@@ -137,13 +137,21 @@ keyboard.keymap = (
                                                         KC.NO,  KC.X,  KC.C,   KC.D,         KC.K,   KC.H,   KC.U,   KC.NO,\
         KC.V,      KC.NO,  KC.MT(KC.SPC, KC.LSFT, tap_time=80),   KC.MT(KC.ESC, KC.LSFT(KC.LGUI), tap_time=80),         KC.MT(KC.LGUI(KC.F), KC.RGUI, tap_time=80), KC.OS(KC.MO(1)), KC.NO,     KC.QUOTE,  \
             KC.MT(KC.OS(KC.MO(1)), KC.LALT),   KC.LT(4, KC.LGUI(KC.Z), tap_time=180),   KC.MO(3),   KC.LGUI,         KC.LEADER,   KC.MO(2),   KC.LT(4, KC.TAB, tap_time=180),   KC.RCTL,\
+        # --- DEFAULT LAYER GUIDE FOR LAYOUT ---
+        #
+        #       N,   R,   S,      T,       -       A,      E,      I,      O,  
+        #   V,            C,      D,       -       K,      H,                 QUOTE, # <-- due to wiring, this is the top right middle finger key. V is the top left
+        #     SPC/Shift,   ESC/CMD+SHIFT,  -     CMD+F/CMD,    ALPHA2, 
+        #                undo              -             Tab
+        #            CMD      ALT          -        CTL      LEADER    
+        #                NAV               -             NUM
     ],
     #
     # [1] ALPHA2 
     [
                     KC.J,    KC.F,    KC.L,    KC.P,          a_n_d,     t_h_e,     KC.Y,      KC.Q,\
                     KC.NO,   KC.B,    KC.M,    KC.G,          KC.SCLN,    KC.COMMA,    a_k_e,      KC.NO,\
-        KC.W,         KC.TRNS,   KC.TRNS,  KC.TRNS,        KC.TRNS,   KC.TO(0),   KC.TRNS,            KC.Z,
+        KC.W,         KC.TRNS,   KC.TRNS,  KC.TRNS,        KC.TRNS,   KC.TO(0),   KC.TRNS,            KC.Z, # <--this is the top right middle finger key. W is the top left
         KC.TRNS,   redoMacro,   redoMacro,   KC.TRNS,         KC.TRNS,   KC.TRNS,   KC.TRNS,  KC.TRNS,\
     ],
     # 
