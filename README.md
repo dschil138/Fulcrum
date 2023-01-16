@@ -41,11 +41,12 @@ This is the most essential feature of the Fulcrum design. Each side has a small 
 
 ![Photo of the Fulcrum Keyboard](photos/fulcrum-detail-1-web.jpg "")
 
-You should experiment with different functions to find what works for you, but here are some useful tips:
-1. Pressing "down" (towards the desk) on the joystick should be a layer switch while held. This is because it is the easiest motion to hold while also pressing other keys on the keyboard.
-2. The most awkward movement is pushing them "forward" (away from you), so choose what you put there carefully
-3. Besides "forward", they all handle Mod-Tap functionality very well, so consider assigning a "hold" key and a "tap" key for each direction
-4.  The first few times you use them, you may find it hard to not move the whole board around a bit when pressing certain directions. This will go away after a day or two of getting used to the movements.
+> **Note**
+> You should experiment with different functions to find what works for you, but here are some useful tips:
+> 1. Pressing "down" (towards the desk) on the joystick should be a layer switch while held. This is because it is the easiest motion to hold while also pressing other keys on the keyboard.
+> 2. The most awkward movement is pushing them "forward" (away from you), so choose what you put there carefully
+> 3. Besides "forward", they all handle Mod-Tap functionality very well, so consider assigning a "hold" key and a "tap" key for each direction
+> 4.  The first few times you use them, you may find it hard to not move the whole board around a bit when pressing certain directions. This will go away after a day or two of getting used to the movements.
 
 The switches are mounted using two pieces which clamp around the base of the switch. The whole assembly is then superglued to the top of the case.
 
@@ -63,8 +64,10 @@ If you get rid of all of the Word combos, you should be able to use regular KMK 
 ## Rotary Encoders
 I find rotary encoders to be very useful, so this keyboard includes two of them. similarly to the key risers, the encoders use an extra "cap" to angle the encoders into a more ergonomic position and to give a little extra clearance so that the rest of the case can remain more low profile.
 
-### Word Keys
-We type the words "the" and "and" a lot. Even more-so when you count them when they appear as part of another word (*the*m, *the*y, or ano*the*r). So this keyboard just gives *the*m *the*ir own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
+## Word Keys
+In addition to having combos for certain words, there are also a couple words that get their own dedicated key in this layout. 
+
+We type the words "the" and "and" a lot. Even more-so when you count them when they appear as part of another word (*the*m, *the*y, or ano*the*r). So this keyboard just gives them their own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
 
 ## Optional key risers
 ![Photo of the Fulcrum Keyboard Detail](photos/fulcrum-detail-2-web.jpg "")
