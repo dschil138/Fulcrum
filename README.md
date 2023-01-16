@@ -1,6 +1,6 @@
 # Fulcrum Keyboard
 
-The Fulcrum Keyboard is an 20-key ergomechanical split keyboard, with two rotary encoders, and two 5-way switches.
+The Fulcrum Keyboard is an 20-key ergomechanical split keyboard, with two rotary encoders, and two 5-way switches. It runs on KMK circuitpython firmware.
 
 ![Photo of the Fulcrum Keyboard](photos/fulcrum-1-web.jpg "")
 
@@ -13,6 +13,10 @@ The four regular thumb keys are low profile choc switches, and the rest are MX. 
 The rotary encoders are positioned and angled to make them as easy to reach and use as possible. They are right where your hands expect them.
 
 The same is true with the 5-way switch joysticks on the thumbs. They are effortless to use. These joysticks are really the defining feature of this keyboard. They open up such a huge field of utility that once you use it, it's hard to imagine ever going back to a keyboard that doesn't have them again.
+
+## Firmware
+
+This keyboard runs on KMK firmware, which you can get [here](https://github.com/KMKfw/kmk_firmware). My code.py and keyboard.py files are in this repo. Feel free to use or alter them as you want.
 
 
 ### Bill Of Materials
@@ -55,11 +59,10 @@ There is no precise place to mount this little platform, it is meant to have fle
 ## Combos
 This keyboard uses a layout with a *significant* number of combos. You don't necessarily have to use as many as I do, but you are going to have to use some no matter what.
 
-So many, in fact, that the KMK firmware files must be altered pretty significantly to free up enough memory on the microcontroller to handle all the timeout timers. There are also only two microcontrollers currently available to my knowledge which can run this firmware without crashing - The Adafruit nRF52340 [Itsy Bitsy](https://www.adafruit.com/product/4481) version or the [Feather](https://www.adafruit.com/product/4062) version.
-
 The combos are split into two main categories: Keys and Words. For the most part, you probably need to keep the Key combos while the Word combos are more optional.
 
-If you get rid of all of the Word combos, you should be able to use regular KMK firmware without issue.
+If you want to add more combos, you will have to delete some that are already there, as the firmware is basically operating at it's limit right now.
+
 
 ## Rotary Encoders
 I find rotary encoders to be very useful, so this keyboard includes two of them. similarly to the key risers, the encoders use an extra "cap" to angle the encoders into a more ergonomic position and to give a little extra clearance so that the rest of the case can remain more low profile.
