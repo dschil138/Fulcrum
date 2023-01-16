@@ -33,9 +33,9 @@ The same is true with the 5-way switch joysticks on the thumbs. They are effortl
 
 ---
 
-## Keyboard Features
+# Keyboard Features
 
-### 5-Way Switches
+## 5-Way Switches
 
 This is the most essential feature of the Fulcrum design. Each side has a small 5-way switch joystick, which is mounted sideways so that the top joystick rests against the pad of your thumb as it rests on the "home" thumb key. This provides a wide range of ergonomic movements to utilize on each thumb. 
 
@@ -51,7 +51,7 @@ The switches are mounted using two pieces which clamp around the base of the swi
 
 There is no precise place to mount this little platform, it is meant to have flexibility there so that you can mount it where it feels comfortable. You may want to consider lengthening or shortening the joystick as well.
 
-### Combos
+## Combos
 This keyboard uses a layout with a *significant* number of combos. You don't necessarily have to use as many as I do, but you are going to have to use some no matter what.
 
 So many, in fact, that the KMK firmware files must be altered pretty significantly to free up enough memory on the microcontroller to handle all the timeout timers. There are also only two microcontrollers currently available to my knowledge which can run this firmware without crashing - The Adafruit nRF52340 [Itsy Bitsy](https://www.adafruit.com/product/4481) version or the [Feather](https://www.adafruit.com/product/4062) version.
@@ -60,17 +60,17 @@ The combos are split into two main categories: Keys and Words. For the most part
 
 If you get rid of all of the Word combos, you should be able to use regular KMK firmware without issue.
 
-### Rotary Encoders
+## Rotary Encoders
 I find rotary encoders to be very useful, so this keyboard includes two of them. similarly to the key risers, the encoders use an extra "cap" to angle the encoders into a more ergonomic position and to give a little extra clearance so that the rest of the case can remain more low profile.
 
 ### Word Keys
 We type the words "the" and "and" a lot. Even more-so when you count them when they appear as part of another word (*the*m, *the*y, or ano*the*r). So this keyboard just gives *the*m *the*ir own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
 
-### Optional key risers
+## Optional key risers
 ![Photo of the Fulcrum Keyboard Detail](photos/fulcrum-detail-2-web.jpg "")
 Most keys have optional risers to help them conform to the shape of your hand. Every non-thumb key gets them except the bottom two on the middle finger. The top middle finger key gets a slanted riser. 
 
 To use them, print the top plate of the case as normal, and just superglue the risers on top. The switches should friction fit into the risers.
 
-### Wiring
+## Wiring
 While this is a split keyboard, I have chosen to hard-wire the halves together. You can follow my wiring if you'd like, or if you want to use a TRRS cable to connect the halves, KMK does offer I2C connection it's official firmware (I have removed it here - see Combos section)
