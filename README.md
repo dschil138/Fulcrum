@@ -19,14 +19,14 @@ The same is true with the 5-way switch joysticks on the thumbs. They are effortl
 This keyboard runs on KMK firmware, which you can get [here](https://github.com/KMKfw/kmk_firmware). My code.py and kb.py files are in this repo. Feel free to use or alter them as you want.
 
 
-### Bill Of Materials
+## Bill Of Materials
 
 | Part      | Quantity | Notes| 
 | :-------------- | :---: | :------ |
 | nRF52840 Microcontroller | 1 | I recommend either the Adafruit nRF52340 [Itsy Bitsy](https://www.adafruit.com/product/4481) version or the [Feather](https://www.adafruit.com/product/4062) version.|
 | Choc key switch | 4 | For thumb keys|
 | MX style key switches    | 16 | for non-thumb keys |
-| Diodes  | 38 |  |
+| 1N4148 Diodes  | 22 |  | 
 | EC11 Rotary Encoders | 2 | EC11 recommended, but you do you|
 | 5-Way Switches   | 2 | |
 | On/Off switch    | 1 | |
@@ -35,7 +35,6 @@ This keyboard runs on KMK firmware, which you can get [here](https://github.com/
 | Wire      | -- | Recommend 30AWG or 28AWG|
 
 
----
 
 # Keyboard Features
 
@@ -81,5 +80,5 @@ To use them, print the top plate of the case as normal, and just superglue the r
 ## Wiring
 While this is a split keyboard, I have chosen to hard-wire the halves together. You can follow my wiring if you'd like, or if you want to use a TRRS cable to connect the halves, KMK does offer I2C connection functionality.
 
-### Hotswap Sockets
+## Hotswap Sockets
 There is no PCB for this keyboard, it is a hand-wired build. However, I have made printable hotswap socket holder so that you can still change out the key switches as you want. You can both MX and Choc versions on my [Printables](https://www.printables.com/model/284057-hot-swap-socket-holders) profile. 
