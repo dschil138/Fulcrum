@@ -1,6 +1,8 @@
-# Fulcrum Keyboard
-The Fulcrum Keyboard is an ergo-mechanical split keyboard with extra thumb functionality. It has 20 keys, two rotary encoders, and two 5-way switches.
-![Photo of the Fulcrum Keyboard](Fulcrum_Keyboard.jpg "")
+The keyboard uses 20  key switches, two rotary encoders, and two 5-way switches.
+
+![Photo of the Fulcrum Keyboard](photos/fulcrum-1.jpg "")
+
+## Description
 
 The original inspiration for such a small number of keys came from Ben Vallack’s "Piano" board. I have made some pretty significant changes from his design, but the core idea of putting several of the alpha keys on a second layer is what drives this board’s design.
 
@@ -10,54 +12,63 @@ The rotary encoders are positioned and angled to make them as easy to reach and 
 
 The same is true with the 5-way switch joysticks on the thumbs. They are effortless to use. These joysticks are really the defining feature of this keyboard. They open up such a huge field of utility that once you use it, it's hard to imagine ever going back to a keyboard that doesn't have them again.
 
-## BOM
-1. nRF52840
-2. 16 MX style key switches
-3. 4 choc style key switches
-4. 2 EC11 Rotary Encoders
-5. 2 5-way switches
-6. on/off switch
-7. USB-C breakout board
-8. LiPo battery (at least 1,000 mAh)
-9. wire (recommended)
+
+### Bill Of Materials
+
+| Part name       | Count | Remarks | 
+| :-------------- | :---: | :------ |
+| nRF52840 Microcontroller | 01 | I recommend either the Adafruit nRF52340 [Itsy Bitsy](https://www.adafruit.com/product/4481) version or the [Feather](https://www.adafruit.com/product/4062) version.|
+| MX style key switches    | 16 | for non-thumb keys |
+| Choc key switch | 4 | Kailh Choc low profile keyswitches |
+| Diodes  | 38 | These are surface mount diodes in SOD123 package |
+| EC11 Rotary Encoders | 2 | You can use the black or white keycaps from Kailh, but I recommend MBK, LDSA or CFX keycaps |
+| 5-Way Switches   | 02 | Alps SKHLLCA010 |
+| On/Off switch    | 01 | For connecting the keyboard with your PC |
+| USB-C Breakout Board   | 1 | MSK12C02 (only required for the bluetooth build) |
+| Lipo battery    | 01 | At least 1000 mAh |
+| Wire      | -- | Recommend 30AWG or 28AWG|
 
 
-# Keyboard Features
-## COMBOS
+---
 
+## Keyboard Features
+
+### 5-Way Switches
+
+This is the most essential feature of the Fulcrum design. Each side has a small 5-way switch joystick, which is mounted sideways so that the top joystick rests against the pad of your thumb as it rests on the "home" thumb key. This provides a wide range of ergonomic movements to utilize on each thumb. 
+
+![Photo of the Fulcrum Keyboard](fulcrum-detail-1.jpg "")
+
+You should experiment with different functions to find what works for you, but here are some useful tips:
+1. Pressing "down" (towards the desk) on the joystick should be a layer switch while held. This is because it is the easiest motion to hold while also pressing other keys on the keyboard.
+2. The most awkward movement is pushing them "forward" (away from you), so choose what you put there carefully
+3. Besides "forward", they all handle Mod-Tap functionality very well, so consider assigning a "hold" key and a "tap" key for each direction
+4.  The first few times you use them, you may find it hard to not move the whole board around a bit when pressing certain directions. This will go away after a day or two of getting used to the movements.
+
+The switches are mounted using two pieces which clamp around the base of the switch. The whole assembly is then superglued to the top of the case.
+
+There is no precise place to mount this little platform, it is meant to have flexibility there so that you can mount it where it feels comfortable. You may want to consider lengthening or shortening the joystick as well.
+
+### Combos
 This keyboard uses a layout with a *significant* number of combos. You don't necessarily have to use as many as I do, but you are going to have to use some no matter what.
 
 So many, in fact, that the KMK firmware files must be altered pretty significantly to free up enough memory on the microcontroller to handle all the timeout timers. There are also only two microcontrollers currently available to my knowledge which can run this firmware without crashing - The Adafruit nRF52340 [Itsy Bitsy](https://www.adafruit.com/product/4481) version or the [Feather](https://www.adafruit.com/product/4062) version.
 
 The combos are split into two main categories: Keys and Words. For the most part, you probably need to keep the Key combos while the Word combos are more optional.
 
+If you get rid of all of the Word combos, you should be able to use regular KMK firmware without issue.
 
-## Rotary Encoders
+### Rotary Encoders
 I find rotary encoders to be very useful, so this keyboard includes two of them. similarly to the key risers, the encoders use an extra "cap" to angle the encoders into a more ergonomic position and to give a little extra clearance so that the rest of the case can remain more low profile.
 
+### Word Keys
+We type the words "the" and "and" a lot. Even more-so when you count them when they appear as part of another word (*the*m, *the*y, or ano*the*r). So this keyboard just gives *the*m *the*ir own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
 
-## 5-Way Switches
-This is the most essential part of the Fulcrum design. A small joystick on a 5-way switch is mounted sideways so that the top joystick rests against the pad of your thumb as it rests on the "home" thumb key. This provides a range of ergonomic movements for each thumb. 
+### Optional key risers
+![Photo of the Fulcrum Keyboard Detail](photos/fulcrum-detail-2.jpg "")
+Most keys have optional risers to help them conform to the shape of your hand. Every non-thumb key gets them except the bottom two on the middle finger. The top middle finger key gets a slanted riser. 
 
-You should experiment with different functions to find what feels comfortable for you, but here are some useful tips:
-1. Pressing "down" (towards the desk) on the joystick should be a layer switch while held. This is because it is the easiest motion to hold while also pressing other keys on the keyboard.
-2. I find that pushing "up" on the left joystick is a very intuitive place for "Undo"
-3. The most awkward movement is pushing them "forward" (away from you), so choose what you put there carefully
-4. They handle "Mod-Tap" functionality very well, so consider a "hold" key and a "tap" key for each direction
+To use them, print the top plate of the case as normal, and just superglue the risers on top. The switches should friction fit into the risers.
 
-The switches are mounted using two pieces. They clamp around the base of the switch and then are superglued to the top of the plate.
-
-There is no precise place to mount this little platform, it is meant to have flexibility there so that you can mount it where it feels comfortable. You may want to consider lengthening or shortening the joystick as well.
-
-
-## Word Keys
-We type the words "THE" and "AND" a lot. Even more-so when you count them when they are just part of another word (Like *THE*m, *THE*y, or ano*THE*r). So this keyboard just gives *THE*m *THE*ir own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
-
-
-## Optional key risers
-Most keys have optional risers to help them conform to the shape of your hand. They are used according to this diagram. To use them, print the top plate of the case as normal, and just superglue the risers on top. The switches should friction fit into the risers.
-
-
-## Wiring
-While this is a split keyboard, I have chosen to hardwire the halves together. You can follow my wiring if you'd like, or if you want to use a TRRS cable to connect the halves, KMK does offer I2C connection it's official firmware (I have removed it here - see Combos section)
-
+### Wiring
+While this is a split keyboard, I have chosen to hard-wire the halves together. You can follow my wiring if you'd like, or if you want to use a TRRS cable to connect the halves, KMK does offer I2C connection it's official firmware (I have removed it here - see Combos section)
