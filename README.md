@@ -1,4 +1,6 @@
-The keyboard uses 20  key switches, two rotary encoders, and two 5-way switches.
+# Fulcrum Keyboard
+
+The Fulcrum Keyboard is an 20-key ergomechanical split keyboard, with two rotary encoders, and two 5-way switches.
 
 ![Photo of the Fulcrum Keyboard](photos/fulcrum-1-web.jpg "")
 
