@@ -17,7 +17,7 @@ The same is true with the 5-way switch joysticks on the thumbs. They are effortl
 
 ### Bill Of Materials
 
-| Part name       | Count | Remarks | 
+| Part      | Quantity | Notes| 
 | :-------------- | :---: | :------ |
 | nRF52840 Microcontroller | 01 | I recommend either the Adafruit nRF52340 [Itsy Bitsy](https://www.adafruit.com/product/4481) version or the [Feather](https://www.adafruit.com/product/4062) version.|
 | Choc key switch | 4 | For thumb keys|
