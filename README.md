@@ -1,6 +1,6 @@
 The keyboard uses 20  key switches, two rotary encoders, and two 5-way switches.
 
-![Photo of the Fulcrum Keyboard](photos/fulcrum-1.jpg "")
+![Photo of the Fulcrum Keyboard](photos/fulcrum-1.wepb "")
 
 ## Description
 
@@ -65,7 +65,7 @@ I find rotary encoders to be very useful, so this keyboard includes two of them.
 We type the words "the" and "and" a lot. Even more-so when you count them when they appear as part of another word (*the*m, *the*y, or ano*the*r). So this keyboard just gives *the*m *the*ir own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
 
 ### Optional key risers
-![Photo of the Fulcrum Keyboard Detail](photos/fulcrum-detail-2.jpg "")
+![Photo of the Fulcrum Keyboard Detail](photos/fulcrum-detail-2.webp "")
 Most keys have optional risers to help them conform to the shape of your hand. Every non-thumb key gets them except the bottom two on the middle finger. The top middle finger key gets a slanted riser. 
 
 To use them, print the top plate of the case as normal, and just superglue the risers on top. The switches should friction fit into the risers.
