@@ -1,6 +1,6 @@
 The keyboard uses 20  key switches, two rotary encoders, and two 5-way switches.
 
-![Photo of the Fulcrum Keyboard](photos/fulcrum-1.wepb "")
+![Photo of the Fulcrum Keyboard](photos/fulcrum-1-web.jpg "")
 
 ## Description
 
@@ -18,13 +18,13 @@ The same is true with the 5-way switch joysticks on the thumbs. They are effortl
 | Part name       | Count | Remarks | 
 | :-------------- | :---: | :------ |
 | nRF52840 Microcontroller | 01 | I recommend either the Adafruit nRF52340 [Itsy Bitsy](https://www.adafruit.com/product/4481) version or the [Feather](https://www.adafruit.com/product/4062) version.|
+| Choc key switch | 4 | For thumb keys|
 | MX style key switches    | 16 | for non-thumb keys |
-| Choc key switch | 4 | Kailh Choc low profile keyswitches |
-| Diodes  | 38 | These are surface mount diodes in SOD123 package |
-| EC11 Rotary Encoders | 2 | You can use the black or white keycaps from Kailh, but I recommend MBK, LDSA or CFX keycaps |
-| 5-Way Switches   | 02 | Alps SKHLLCA010 |
-| On/Off switch    | 01 | For connecting the keyboard with your PC |
-| USB-C Breakout Board   | 1 | MSK12C02 (only required for the bluetooth build) |
+| Diodes  | 38 |  |
+| EC11 Rotary Encoders | 2 | EC11 recommended, but you do you|
+| 5-Way Switches   | 02 | |
+| On/Off switch    | 01 | |
+| USB-C Breakout Board   | 1 | (optional)|
 | Lipo battery    | 01 | At least 1000 mAh |
 | Wire      | -- | Recommend 30AWG or 28AWG|
 
@@ -37,7 +37,7 @@ The same is true with the 5-way switch joysticks on the thumbs. They are effortl
 
 This is the most essential feature of the Fulcrum design. Each side has a small 5-way switch joystick, which is mounted sideways so that the top joystick rests against the pad of your thumb as it rests on the "home" thumb key. This provides a wide range of ergonomic movements to utilize on each thumb. 
 
-![Photo of the Fulcrum Keyboard](fulcrum-detail-1.jpg "")
+![Photo of the Fulcrum Keyboard](fulcrum-detail-1-web.jpg "")
 
 You should experiment with different functions to find what works for you, but here are some useful tips:
 1. Pressing "down" (towards the desk) on the joystick should be a layer switch while held. This is because it is the easiest motion to hold while also pressing other keys on the keyboard.
@@ -65,7 +65,7 @@ I find rotary encoders to be very useful, so this keyboard includes two of them.
 We type the words "the" and "and" a lot. Even more-so when you count them when they appear as part of another word (*the*m, *the*y, or ano*the*r). So this keyboard just gives *the*m *the*ir own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
 
 ### Optional key risers
-![Photo of the Fulcrum Keyboard Detail](photos/fulcrum-detail-2.webp "")
+![Photo of the Fulcrum Keyboard Detail](photos/fulcrum-detail-2-web.jpg "")
 Most keys have optional risers to help them conform to the shape of your hand. Every non-thumb key gets them except the bottom two on the middle finger. The top middle finger key gets a slanted riser. 
 
 To use them, print the top plate of the case as normal, and just superglue the risers on top. The switches should friction fit into the risers.
