@@ -95,4 +95,4 @@ There is no PCB for this keyboard, it is a hand-wired build. But we all still wa
 
 # Layer Keymaps
 (blank spaces on joystick directions inherit the key from the previous layer)
-![Alpha1 Layer](photos/fulcrum-layout-all.jpg "")
+![Alpha1 Layer](photos/fulcrum-layout-full.jpg "")
