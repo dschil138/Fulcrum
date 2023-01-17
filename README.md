@@ -68,23 +68,31 @@ The combos are split into two main categories: Keys and Words. For the most part
 
 If you want to add more combos, you will have to delete some that are already there, as the firmware is basically operating at it's limit right now.
 
-
-## Rotary Encoders
-I find rotary encoders to be very useful, so this keyboard includes two of them. Similarly to the key risers, the encoders use an extra "cap" to angle and raise the encoders so that they sit in a more ergonomic position and give a little extra clearance underneath in the low-profile case.
-
 ## Word Keys
 In addition to having combos for certain words, there are also a couple words that get their own dedicated keys in this layout. 
 
 We type the words "the" and "and" a lot. Even more-so when you count them when they appear as part of another word (*the*m, *the*y, or ano*the*r). So this keyboard just gives them their own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
 
+The Word Keys are on the "alpha2" layer. You can see them all the layers in the keymap at the bottom of this page.
+
 ## Optional key risers
+Most keys have optional risers to help them conform to the shape of your hand. Every non-thumb key gets them except the bottom two on the middle finger. The top middle finger key gets a slanted riser.  
+
 ![Photo of the Fulcrum Keyboard Detail](photos/fulcrum-detail-2-web.jpg "")
-Most keys have optional risers to help them conform to the shape of your hand. Every non-thumb key gets them except the bottom two on the middle finger. The top middle finger key gets a slanted riser. 
 
 To use them, print the top plate of the case as normal, and just superglue the risers on top. The switches should friction fit into the risers.
+
+## Rotary Encoders
+I find rotary encoders to be very useful, so this keyboard includes two of them. Similarly to the key risers, the encoders use an extra "cap" to angle and raise the encoders so that they sit in a more ergonomic position and give a little extra clearance underneath in the low-profile case.
 
 ## Wiring
 While this is a split keyboard, I have chosen to hard-wire the halves together. You can follow my wiring if you'd like, or if you want to use a TRRS cable to connect the halves, KMK does offer I2C connection functionality.
 
 ## Hotswap Sockets
 There is no PCB for this keyboard, it is a hand-wired build. But we all still want hot swap sockets so I've made printable socket holders that allow you to still change out the key switches as you want. You can find both the MX & Choc versions [here](https://www.printables.com/model/284057-hot-swap-socket-holders). 
+
+---
+
+# Layer Keymaps
+(blank spaces on joystick directions inherit the key from the previous layer)
+![Alpha1 Layer](photos/fulcrum-layout-full.jpg "")
