@@ -134,7 +134,7 @@ keyboard.keymap = (
     # definitons as possible, instead defining the functionality of keys directly in the keymap here)
     [
                                                         KC.N,   KC.R,   KC.S,  KC.T,         KC.A,   KC.E,   KC.I,   KC.O,\
-                                                        KC.NO,  KC.X,  KC.C,   KC.D,         KC.K,   KC.H,   KC.U,   KC.NO,\
+                                                        KC.NO,  KC.X,  KC.C,   KC.D,         KC.H,   KC.U,   KC.K,   KC.NO,\
         KC.V,      KC.NO,  KC.MT(KC.SPC, KC.LSFT, tap_time=80),   KC.MT(KC.ESC, KC.LSFT(KC.LGUI), tap_time=80),         KC.MT(KC.LGUI(KC.F), KC.RGUI, tap_time=80), KC.OS(KC.MO(1)), KC.NO,     KC.QUOTE,  \
             KC.MT(KC.OS(KC.MO(1)), KC.LALT),   KC.LT(4, KC.LGUI(KC.Z), tap_time=180),   KC.MO(3),   KC.LGUI,         KC.LEADER,   KC.MO(2),   KC.LT(4, KC.TAB, tap_time=180),   KC.RCTL,\
         # --- DEFAULT LAYER GUIDE FOR LAYOUT ---
