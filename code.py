@@ -139,9 +139,10 @@ keyboard.keymap = (
             KC.MT(KC.OS(KC.MO(1)), KC.LALT),   KC.LT(4, KC.LGUI(KC.Z), tap_time=180),   KC.MO(3),   KC.LGUI,         KC.LEADER,   KC.MO(2),   KC.LT(4, KC.TAB, tap_time=180),   KC.RCTL,\
         # --- DEFAULT LAYER GUIDE FOR LAYOUT ---
         #
-        #       N,   R,   S,      T,       -       A,      E,      I,      O,  
-        #   V,            C,      D,       -       K,      H,                 QUOTE, # <-- due to wiring, this is the top right middle finger key. V is the top left
+        #       N,   R,    S,     T,       -       A,      E,      I,      O,  
+        #   V,       X,    C,     D,       -       K,      H,      U,         QUOTE, # <-- due to wiring, this is the top right middle finger key. V is the top left
         #     SPC/Shift,   ESC/CMD+SHIFT,  -     CMD+F/CMD,    ALPHA2, 
+        #                                  -
         #                undo              -             Tab
         #            CMD      ALT          -        CTL      LEADER    
         #                NAV               -             NUM
