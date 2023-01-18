@@ -2,7 +2,7 @@
 
 The Fulcrum Keyboard is an 20-key ergomechanical split keyboard, with two rotary encoders, and two 5-way switches. It runs on KMK circuitpython firmware.
 
-![Photo of the Fulcrum Keyboard](photos/fulcrum-1-web.jpg "")
+![Photo of the Fulcrum Keyboard](photos/fulcrum-1-web.jpg)
 
 ## Description
 
@@ -48,7 +48,7 @@ These joysticks - when mounted sideways - allow you to use your thumbs in a dime
 
 With the regular key switch placed directly below joystick, this actually puts six different actions at the tip of each thumb with very minimal movement. All of these actions are comfortable and easily paired with other key presses elsewhere on the keyboard.
 
-![Photo of the Fulcrum Keyboard](photos/fulcrum-detail-1-web.jpg "")
+![Photo of the Fulcrum Keyboard](photos/fulcrum-detail-1-web.jpg)
 
 The switches are mounted using an angled platform. It consists of two pieces which clamp around the base of the switch. The whole assembly is then superglued to the top of the case.
 
@@ -66,6 +66,11 @@ This keyboard uses a layout with a *significant* number of combos. You don't nec
 
 The combos are split into two main categories: Keys and Words. For the most part, you probably need to keep the Key combos while the Word combos are more optional.
 
+Here is a layout of most of the Key/Action Combos
+
+![Key Combos Diagram](photos/key-combos.png)
+
+
 If you want to add more combos, you will have to delete some that are already there, as the firmware is basically operating at it's limit right now.
 
 ## Word Keys
@@ -78,7 +83,7 @@ The Word Keys are on the "alpha2" layer. You can see them all the layers in the 
 ## Optional key risers
 Most keys have optional risers to help them conform to the shape of your hand. Every non-thumb key gets them except the bottom two on the middle finger. The top middle finger key gets a slanted riser.  
 
-![Photo of the Fulcrum Keyboard Detail](photos/fulcrum-detail-2-web.jpg "")
+![Photo of the Fulcrum Keyboard Detail](photos/fulcrum-detail-2-web.jpg)
 
 To use them, print the top plate of the case as normal, and just superglue the risers on top. The switches should friction fit into the risers.
 
@@ -96,4 +101,4 @@ There is no PCB for this keyboard, it is a hand-wired build. But we all still wa
 # Layer Keymaps
 (blank spaces on joystick directions inherit the key from the previous layer)
 
-![All Fulcrum Layers](photos/fulcrum-layouts-full.jpg "")
+![All Fulcrum Layers](photos/fulcrum-layouts-full.jpg)
