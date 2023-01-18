@@ -50,16 +50,16 @@ With the regular key switch placed directly below joystick, this actually puts s
 
 ![Photo of the Fulcrum Keyboard](photos/fulcrum-detail-1-web.jpg "")
 
+The switches are mounted using an angled platform. It consists of two pieces which clamp around the base of the switch. The whole assembly is then superglued to the top of the case.
+
+There is no precise place to glue this little platform. It is meant to have flexibility there so that you can mount it where it feels comfortable to you. You may want to consider lengthening or shortening the joystick as well. A longer joystick provides extra leverage if your 5-way switch has a high operating force.
+
 > **Note**
-> You should experiment with different functions to find what works for you, but here are some useful tips:
+> You should experiment with different key functions to find what works for you, but here are some useful tips:
 > 1. Pressing "down" (towards the desk) on the joystick should be a layer switch while held. This is because it is the easiest motion to hold while also pressing other keys on the keyboard.
 > 2. The most awkward movement is pushing them "forward" (away from you), so choose what you put there carefully
 > 3. Besides "forward", they all handle Mod-Tap functionality very well, so consider assigning a "hold" key and a "tap" key for each direction
 > 4.  The first few times you use them, you may find it hard to not move the whole board around a bit when pressing certain directions. This will go away after a day or two of getting used to the movements.
-
-The switches are mounted using an angled platform. It consists of two pieces which clamp around the base of the switch. The whole assembly is then superglued to the top of the case.
-
-There is no precise place to glue this little platform. It is meant to have flexibility there so that you can mount it where it feels comfortable to you. You may want to consider lengthening or shortening the joystick as well. A longer joystick provides extra leverage if your 5-way switch has a high operating force.
 
 ## Combos
 This keyboard uses a layout with a *significant* number of combos. You don't necessarily have to use as many as I do, but you are going to have to use some no matter what.
