@@ -61,6 +61,15 @@ There is no precise place to glue this little platform. It is meant to have flex
 > 3. Besides "forward", they all handle Mod-Tap functionality very well, so consider assigning a "hold" key and a "tap" key for each direction
 > 4.  The first few times you use them, you may find it hard to not move the whole board around a bit when pressing certain directions. This will go away after a day or two of getting used to the movements.
 
+
+
+## Word Keys
+In addition to having combos for certain words, there are also a couple words that get their own dedicated keys in this layout. 
+
+We type the words "the" and "and" a lot. Even more-so when you count them when they appear as part of another word (*the*m, *the*y, or ano*the*r). So this keyboard just gives them their own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
+
+The Word Keys are on the "alpha2" layer. You can see them all the layers in the keymap at the bottom of this page.
+
 ## Combos
 This keyboard uses a layout with a *significant* number of combos. You don't necessarily have to use as many as I do, but you are going to have to use some no matter what.
 
@@ -70,15 +79,9 @@ Here is a layout of most of the Key/Action Combos
 
 ![Key Combos Diagram](photos/key-combos.png)
 
+> **Note**
+> If you want to add more combos, you will have to delete some that are already there, as the firmware is really operating at it's limit right now.
 
-If you want to add more combos, you will have to delete some that are already there, as the firmware is basically operating at it's limit right now.
-
-## Word Keys
-In addition to having combos for certain words, there are also a couple words that get their own dedicated keys in this layout. 
-
-We type the words "the" and "and" a lot. Even more-so when you count them when they appear as part of another word (*the*m, *the*y, or ano*the*r). So this keyboard just gives them their own keys. You will be surprised how much time this saves! Feel great and efficient to type with them. 
-
-The Word Keys are on the "alpha2" layer. You can see them all the layers in the keymap at the bottom of this page.
 
 ## Optional key risers
 Most keys have optional risers to help them conform to the shape of your hand. Every non-thumb key gets them except the bottom two on the middle finger. The top middle finger key gets a slanted riser.  
