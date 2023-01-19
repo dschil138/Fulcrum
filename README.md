@@ -14,10 +14,6 @@ The rotary encoders are positioned and angled to make them as easy to reach and 
 
 The same is true with the 5-way switch joysticks on the thumbs. They are effortless to use. These joysticks are really the defining feature of this keyboard. They open up such a huge field of utility that once you use, it's hard to imagine ever going back to a keyboard that doesn't have them again.
 
-## Firmware
-
-This keyboard runs on KMK firmware, which you can get [here](https://github.com/KMKfw/kmk_firmware). My code.py and kb.py files are in this repo. Feel free to use or alter them as you want.
-
 
 ## Bill Of Materials
 
@@ -25,7 +21,7 @@ This keyboard runs on KMK firmware, which you can get [here](https://github.com/
 | :-------------- | :---: | :------ |
 | nRF52840 Microcontroller | 1 | I recommend either the Adafruit nRF52340 [Itsy Bitsy](https://www.adafruit.com/product/4481) version or the [Feather](https://www.adafruit.com/product/4062) version.|
 | Choc key switch | 4 | For thumb keys|
-| MX style key switches    | 16 | for non-thumb keys |
+| MX style key switches    | 16 | For non-thumb keys |
 | 1N4148 Diodes  | 22 |  | 
 | EC11 Rotary Encoders | 2 | EC11 recommended, but you do you|
 | 5-Way Switches   | 2 | |
@@ -34,7 +30,9 @@ This keyboard runs on KMK firmware, which you can get [here](https://github.com/
 | Lipo battery    | 1 | At least 1000 mAh |
 | Wire      | -- | Recommend 30AWG or 28AWG|
 
+## Firmware
 
+This keyboard runs on KMK firmware, which you can get [here](https://github.com/KMKfw/kmk_firmware). My code.py and kb.py files are in this repo. Feel free to use or alter them as you want.
 
 # Keyboard Features
 
