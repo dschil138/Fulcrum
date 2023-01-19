@@ -34,6 +34,8 @@ The same is true with the 5-way switch joysticks on the thumbs. They are effortl
 
 This keyboard runs on KMK firmware, which you can get [here](https://github.com/KMKfw/kmk_firmware). My code.py and kb.py files are in this repo. Feel free to use or alter them as you want.
 
+---
+
 # Keyboard Features
 
 ## 5-Way Switches
@@ -102,4 +104,4 @@ There is no PCB for this keyboard, it is a hand-wired build. But we all still wa
 # Layer Keymaps
 (blank spaces on joystick directions inherit the key from the previous layer)
 
-![All Fulcrum Layers](photos/fulcrum-layouts-full.jpg)
+![All Fulcrum Layers](photos/fulcrum-layouts-full-2.jpg)
