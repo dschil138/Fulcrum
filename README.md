@@ -77,7 +77,7 @@ The combos are split into two main categories: Keys and Words. For the most part
 
 Here is a layout of most of the Key/Action Combos
 
-![Key Combos Diagram](photos/key-combos.png)
+![Key Combos Diagram](photos/key-action-combos.png)
 
 > **Note**
 > If you want to add more combos, you will have to delete some that are already there, as the firmware is really operating at it's limit right now.
