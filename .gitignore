@@ -1,2 +1,6 @@
+.DS_Store
+.vscode/
+ignored/
 diagrams/
 build-guide.md
+
