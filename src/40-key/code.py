@@ -33,9 +33,6 @@ keyboard.extensions.append(MediaKeys())
 
 redo = simple_key_sequence((KC.LSFT(KC.LGUI(KC.Z),),))
 undo = simple_key_sequence((KC.LSFT(KC.LGUI(KC.Z),),))
-t_h_e = send_string('the')
-a_n_d = send_string('and')
-
 SPC_sft = KC.MT(KC.LSFT, KC.SPC, timeout=80)
 ESC_gui_sft = KC.MT(KC.LGUI(KC.LSFT), KC.ESC, timeout=80)
 FIND_gui = KC.MT(KC.LGUI(KC.LSFT), KC.ESC, timeout=80)
