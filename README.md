@@ -108,7 +108,7 @@ By default, the rotary encoders control volume on the right, and undo/redo on th
 
 There are currently two versions of the Fulcrum - the 20-key version you see in most of the photos here, and a 40-key version pictured below.
 
-![40 key version](photos/fulcrum-6x3-walnut-3.jpg)
+![40 key version](photos/fulcrum-6x3-walnut-3.webp)
 
 This repo contains the STLs and firmware files for both versions. The 40-key version is newer - the keymap layers especially are not as well-developed. But it is fully functional!
 
