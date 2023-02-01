@@ -1,6 +1,6 @@
 ![Fulcrum Keyboard Logo](photos/fulcrum-logo.png)
 
-### <h3 align="center"> Your thumbs aren't the same as your other fingers.<br> So your keyboard shouldn't treat them the same.</h3>
+### <h3 align="center"> Your thumbs aren't the same as your other fingers<br><br> So your keyboard shouldn't treat them the same</h3>
 
 <!-- # Fulcrum Keyboard -->
 
