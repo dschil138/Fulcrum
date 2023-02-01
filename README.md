@@ -1,6 +1,6 @@
 ![Fulcrum Keyboard Logo](photos/fulcrum-logo.png)
 
-### <h3 align="center"> Your thumbs aren't the same as your other fingers,<br> so your keyboard shouldn't treat them the same  </h3>
+### <h3 align="center"> Your thumbs aren't the same as your other fingers.<br> So your keyboard shouldn't treat them the same.</h3>
 
 <!-- # Fulcrum Keyboard -->
 
@@ -40,7 +40,7 @@ Most importantly, all of these actions are easily paired with other key presses 
 > 3.  The first few times you use them, you may find it hard to not move the whole board around a bit when pressing certain directions. This will go away after a day or two of getting used to the movements.
 
 
-## <img src="https://user-images.githubusercontent.com/11950317/215355669-d6bbb1b0-0abe-4ec0-a276-c84e87f48def.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Combos
+## <img src="https://user-images.githubusercontent.com/11950317/215893696-86b11db0-47cf-4d86-9a37-f51a55ff4416.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Combos
 A combo is when you press two or more keys at the same time to output a different key.
 
 The 20-key version of this keyboard uses a significant number of combos. You don't have to keep them all, but some are important.
@@ -52,7 +52,7 @@ Here is a guide to most of the important combos. They are generally split into c
 > **Note**
 > If you want to add more combos, you will need to delete some that are already defined, as the firmware is basically operating at its limit right now.
 
-## <img src="https://user-images.githubusercontent.com/11950317/215355776-6f5fd30f-836b-4c91-9be2-712d08379fc3.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Word Keys
+## <img src="https://user-images.githubusercontent.com/11950317/215891383-edf34c6f-7595-4a83-b5a5-fbf6f6f37a64.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Word Keys
 
 Combos are great, but sometimes it's also nice to just press one key and output multiple.
 
@@ -104,7 +104,7 @@ By default, the rotary encoders control volume on the right, and undo/redo on th
 | Lipo battery    | 1 | At least 500 mAh, this thing chews batteries |
 | Wire      |  | Recommend 30AWG or 28AWG|
 
-## <img src="https://user-images.githubusercontent.com/11950317/215355721-5674367b-3287-4ba1-8e49-3b02f7e7ed68.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Files
+## <img src="https://user-images.githubusercontent.com/11950317/215916322-911b9a37-554b-4d83-9109-c629533d7b1d.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Files
 
 There are currently two versions of the Fulcrum - the 20-key version you see in most of the photos here, and a 40-key version pictured below.
 
