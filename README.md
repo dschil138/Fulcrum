@@ -1,6 +1,6 @@
 ![Fulcrum Keyboard Logo](photos/fulcrum-logo.png)
 
-### <h3 align="center"> Your thumbs aren't the same as your other fingers<br><br> So your keyboard shouldn't treat them the same</h3>
+### <h3 align="center"> Leverage the power of opposable thumbs</h3>
 
 <!-- # Fulcrum Keyboard -->
 
@@ -79,17 +79,25 @@ To use them, print the top plate of the case as normal, and superglue the risers
 
 ## <img src="https://user-images.githubusercontent.com/11950317/215578972-c86ecda2-9da5-4998-95ce-b986fa7c555d.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Rotary Encoders
 
-By default, the rotary encoders control volume on the right, and undo/redo on the left (this one is particularly useful when wanting to quickly scrub through edit history on a file).
+By default, the left rotary encoder scrubs through history (undo/redo) and the right side controls volume. Some other uses include tab switching, scrolling, and tool adjustment in apps like photoshop.
 
- Similarly to the key risers, the encoders use a slanted riser to angle the encoders so that they sit in a more ergonomic position.
- 
- This is printed separately and then glued to the top of the case, giving you some wiggle room to position the knobs exactly where you want them.
+ Similarly to the key risers, the encoders use a slanted riser to tilt the encoders into a more ergonomic position.
 
 
 
 # 🛠️ Build Guide
 
-## <img src="https://user-images.githubusercontent.com/11950317/215355743-262b614e-b5da-4b19-846d-11fd102803bc.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Bill Of Materials
+## <img src="https://user-images.githubusercontent.com/11950317/215916322-911b9a37-554b-4d83-9109-c629533d7b1d.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Version Files
+
+There are currently two versions of the Fulcrum - the 20-key version you see in most of the photos above, and a 40-key version pictured below.
+
+![40 key version](photos/fulcrum-6x3-walnut-3.webp)
+
+This repo contains the STLs and firmware files for both versions. The 40-key version is newer - the keymap layouts are not as well-developed. But it is fully functional!
+
+*(NOTE: there is now a 36-key "beta" version as well)*
+
+## <img src="https://user-images.githubusercontent.com/11950317/215355743-262b614e-b5da-4b19-846d-11fd102803bc.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  BOM
 
 | Part      | Quantity | Notes| 
 | :-------------- | :---: | :------ |
@@ -102,15 +110,8 @@ By default, the rotary encoders control volume on the right, and undo/redo on th
 | On/Off switch    | 1 | |SKRHACE010
 | USB-C Breakout Board   | 1 | (optional)|
 | Lipo battery    | 1 | At least 500 mAh, this thing chews batteries |
+| [TP4056](https://www.aliexpress.us/item/2251832464987361.html?spm=a2g0o.order_list.order_list_main.10.3a701802m2teaG&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US) Lipo Charger    | 1 | Not needed if your microcontroller has built-in lipo charging, like the Feather nRF52840 |
 | Wire      |  | Recommend 30AWG or 28AWG|
-
-## <img src="https://user-images.githubusercontent.com/11950317/215916322-911b9a37-554b-4d83-9109-c629533d7b1d.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Files
-
-There are currently two versions of the Fulcrum - the 20-key version you see in most of the photos here, and a 40-key version pictured below.
-
-![40 key version](photos/fulcrum-6x3-walnut-3.webp)
-
-This repo contains the STLs and firmware files for both versions. The 40-key version is newer - the keymap layers especially are not as well-developed. But it is fully functional!
 
 
 ## <img src="https://user-images.githubusercontent.com/11950317/215355800-447ac92a-7cb6-4ce8-bda0-7092936c10ef.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Wiring 
