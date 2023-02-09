@@ -17,7 +17,7 @@ There are currently two versions of the Fulcrum: the **20-key version** pictured
 
 ## 👍 5-Way Switch Thumb Joysticks
 
-Our thumbs are criminally underutilized on regular keyboards. Your two most capable fingers, both regulated to just one key - the space bar.
+Our thumbs are criminally underutilized on regular keyboards. Your two most capable fingers, both relegated to just one key - the space bar.
 
 Many ergonomic keyboards try to rectify this problem by giving each thumb several keys. This is an improvement, but most people quickly find that it is actually quite difficult for your thumb to stretch over multiple keys and hit something accurately, let alone comfortably. More inefficency!
 
@@ -95,7 +95,7 @@ There are currently two versions of the Fulcrum - the 20-key version you see in 
 
 This repo contains the STLs and firmware files for both versions. The 40-key version is newer - the keymap layouts are not as well-developed. But it is fully functional!
 
-*(NOTE: there is now a 36-key "beta" version as well)*
+*(NOTE: there is now a 34-key "beta" version as well)*
 
 ## <img src="https://user-images.githubusercontent.com/11950317/215355743-262b614e-b5da-4b19-846d-11fd102803bc.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  BOM
 
@@ -135,12 +135,12 @@ There is no PCB for this keyboard, it is a hand-wired build. But of course we al
 # <img src="https://user-images.githubusercontent.com/11950317/215355643-7e5087c0-9c5f-47c8-a4fc-14ecf849a2d0.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Layer Keymaps
 (blank spaces on joystick directions inherit the key from the previous layer)
 
-![All Fulcrum Layers](photos/fulcrum-layouts-full-2.jpg)
+![All Fulcrum Layers](photos/fulcrum-layout-all-layers.jpg)
 
-<!-- ## Credits
+## Credits
 
- - The innovative idea of reducing the overall number of keys by putting half of the letters on a second layer comes from Ben Vallack
+ - The innovative idea of reducing the overall number of keys by putting half of the letters on a second layer comes from [Ben Vallack](https://www.youtube.com/c/BenVallack)
 
-- The main design inspiration behind the shape of the 40-key Fulcrum is from the Corne Keyboard
+- The main design inspiration behind the shape of the 40-key Fulcrum is from the [Corne Keyboard](https://github.com/foostan/crkbd)
 
- - Many of the custom emojis used in this README are remixed files from flaticon -->
+ - Many of the custom emojis used in this README are remixed files from flaticon [<a href="https://www.flaticon.com/free-icons/upload" title="upload icons">1</a>, <a href="https://www.flaticon.com/free-icons/placement" title="placement icons">2</a>, <a href="https://www.flaticon.com/free-icons/layers" title="layers icons">3</a>, <a href="https://www.flaticon.com/free-icons/ctrl" title="ctrl icons">4</a>, <a href="https://www.flaticon.com/free-icons/type" title="type icons">5</a>, <a href="https://www.flaticon.com/free-icons/checklist" title="checklist icons">6</a>, <a href="https://www.flaticon.com/free-icons/storage" title="storage icons">7</a>, <a href="https://www.flaticon.com/free-icons/knob" title="knob icons">8</a>, <a href="https://www.flaticon.com/free-icons/wire" title="wire icons">9</a>, <a href="https://www.flaticon.com/free-icons/levels" title="levels icons">10</a>]
