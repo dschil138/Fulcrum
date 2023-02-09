@@ -1,6 +1,6 @@
 ![Fulcrum Keyboard Logo](photos/fulcrum-logo.png)
 
-### <h3 align="center"> Leverage the power of opposable thumbs</h3>
+## <h2 align="center"> Leverage the power of opposable thumbs</h2>
 
 <!-- # Fulcrum Keyboard -->
 
@@ -8,9 +8,15 @@ The Fulcrum is a wireless ergonomic keyboard that features 5-way switch joystick
 
 It runs KMK circuitpython firmware on an nRF52840 microcontroller.
 
-There are currently two versions of the Fulcrum: the **20-key version** pictured here, and a **40-key version** pictured farther below. (These key counts do not include the 5-way switches.)
+
 
 ![Photo of the Fulcrum Keyboard](photos/fulcrum-1-web.jpg)
+
+There are currently two versions of the Fulcrum: the **20-key version** pictured here, and a **40-key version** pictured farther below. (These key counts do not include the 5-way switches.)
+
+![40 key version](photos/fulcrum-6x3-walnut-3.webp)
+
+*(NOTE: there is now a 34-key "beta" version as well)*
 
 
 # Keyboard Features
@@ -91,7 +97,6 @@ By default, the left rotary encoder scrubs through history (undo/redo) and the r
 
 There are currently two versions of the Fulcrum - the 20-key version you see in most of the photos above, and a 40-key version pictured below.
 
-![40 key version](photos/fulcrum-6x3-walnut-3.webp)
 
 This repo contains the STLs and firmware files for both versions. The 40-key version is newer - the keymap layouts are not as well-developed. But it is fully functional!
 
@@ -124,6 +129,9 @@ Note that the top key is wired as if it were part of the thumb key row.
 
 The 5-way switches are mounted using an angled platform. It consists of two pieces which clamp around the base of the switch. The whole assembly is then superglued to the top of the case.
 
+![Wiring Diagram](photos/fulcrum-walnut-detail.webp)
+
+
 There is no precise place to glue this little platform. There is meant to be flexibility there so that you can mount it where it feels comfortable to you. You may want to consider lengthening or shortening the joystick as well, with a longer joystick providing extra leverage on the switch.
 
 There is a small hole in the bottom of the platform piece. When you find the placement of the switch that you want, drill a small hole in the top of the main case to line up with that hole so you can feed the wires through. They connect into the rest of the matrix as if they were regular keys.
@@ -135,7 +143,7 @@ There is no PCB for this keyboard, it is a hand-wired build. But of course we al
 # <img src="https://user-images.githubusercontent.com/11950317/215355643-7e5087c0-9c5f-47c8-a4fc-14ecf849a2d0.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Layer Keymaps
 (blank spaces on joystick directions inherit the key from the previous layer)
 
-![All Fulcrum Layers](photos/fulcrum-layout-all-layers.jpg)
+![All Fulcrum Layers](photos/fulcrum-layout-all-layers-2.jpg)
 
 ## Credits
 
