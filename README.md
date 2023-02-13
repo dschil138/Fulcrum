@@ -12,7 +12,7 @@ It runs KMK circuitpython firmware on an nRF52840 microcontroller.
 
 ![Photo of the Fulcrum Keyboard](photos/fulcrum-1-web.jpg)
 
-There are currently two versions of the Fulcrum: the **20-key version** pictured here, and a **40-key version** pictured farther below. (These key counts do not include the 5-way switches.)
+There are currently two versions of the Fulcrum: the **20-key version** pictured here, and a **40-key version** pictured below. (These key counts do not include the 5-way switches.)
 
 ![40 key version](photos/fulcrum-6x3-walnut-3.webp)
 
@@ -143,7 +143,7 @@ There is no PCB for this keyboard, it is a hand-wired build. But of course we al
 # <img src="https://user-images.githubusercontent.com/11950317/215355643-7e5087c0-9c5f-47c8-a4fc-14ecf849a2d0.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Layer Keymaps
 (blank spaces on joystick directions inherit the key from the previous layer)
 
-![All Fulcrum Layers](photos/fulcrum-layout-all-layers-2.jpg)
+![All Fulcrum Layers](photos/fulcrum-layout-all-layers-3.jpg)
 
 ## Credits
 

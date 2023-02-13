@@ -32,7 +32,7 @@ keyboard.extensions.append(MediaKeys())
 keyboard.modules.append(encoder_handler)
 keyboard.modules.append(encoder_handler_2)
 
-encoder_handler.pins = ((board.D13, board.D11, board.D12, False,),)
+encoder_handler.pins = ((board.SCK, board.A4, board.A5, False,),)
 encoder_handler_2.pins = ((board.D2, board.MISO, board.MOSI, False,),)
 
 
