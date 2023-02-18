@@ -55,12 +55,8 @@ Here is a guide to most of the important combos. They are generally split into c
 
 ![Important Combos Diagram](photos/important-combos-2.webp)
 
-> **Note**
-> If you want to add more combos, you will need to delete some that are already defined, as the firmware is basically operating at its limit right now.
 
 ## <img src="https://user-images.githubusercontent.com/11950317/215891383-edf34c6f-7595-4a83-b5a5-fbf6f6f37a64.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Word Keys
-
-Combos are great, but sometimes it's also nice to just press one key and output multiple.
 
 We type the words "<ins>the</ins>" and "<ins>and</ins>" a lot. Even more-so if you include when they appear as a part of another word (<ins>the</ins>m, <ins>the</ins>y, ano<ins>the</ins>r).
 
@@ -80,8 +76,7 @@ To use them, print the top plate of the case as normal, and superglue the risers
 >**Note** 
 >The four thumb keys are low profile choc switches, as opposed to the rest which are MX. This is to accommodate the fact that your thumb sits on lower plane than the rest of your fingers, helping to further reduce hand strain.
 >
->The custom angled keycaps for the thumb keys can be found in the STLs folder.
-
+>The custom angled keycaps for the thumb keys can be found in the STLs folder. They are a remix of the great [LPX](https://github.com/levpopov/LPX) design by levpopov.
 
 ## <img src="https://user-images.githubusercontent.com/11950317/215578972-c86ecda2-9da5-4998-95ce-b986fa7c555d.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Rotary Encoders
 
@@ -125,6 +120,8 @@ While this is a split keyboard, I have chosen to hard-wire the halves together. 
 Note that the top key is wired as if it were part of the thumb key row.
 ![Wiring Diagram](photos/wiring.webp)
 
+There is also a [full wiring diagram](https://user-images.githubusercontent.com/11950317/218586755-9777235f-c6fa-4484-ac11-7d081c10044d.jpg) which shows the microcontroller connections
+
 ## <img src="https://user-images.githubusercontent.com/11950317/215356807-121f3e62-efb0-4719-845c-02f793201d79.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Placing The Joysticks
 
 The 5-way switches are mounted using an angled platform. It consists of two pieces which clamp around the base of the switch. The whole assembly is then superglued to the top of the case.
@@ -148,6 +145,8 @@ There is no PCB for this keyboard, it is a hand-wired build. But of course we al
 ## Credits
 
  - The innovative idea of reducing the overall number of keys by putting half of the letters on a second layer comes from [Ben Vallack](https://www.youtube.com/c/BenVallack)
+
+ - The angled keycaps for the thumb keys are a remix of levpopov's great [LPX](https://github.com/levpopov/LPX) design
 
 - The main design inspiration behind the shape of the 40-key Fulcrum is from the [Corne Keyboard](https://github.com/foostan/crkbd)
 
