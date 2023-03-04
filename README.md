@@ -137,7 +137,7 @@ There is a small hole in the bottom of the platform piece. When you find the pla
 There is no PCB for this keyboard, it is a hand-wired build. But of course we all still want to be able to swap out different switches. So I've made printable hot-swap socket holders that allow you to do that. You can find the MX & Choc versions [here](https://www.printables.com/model/284057-hot-swap-socket-holders)
 
 ---
-# <img src="https://user-images.githubusercontent.com/11950317/215355643-7e5087c0-9c5f-47c8-a4fc-14ecf849a2d0.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Layer Keymaps
+# <img src="https://user-images.githubusercontent.com/11950317/220266343-88cfc19b-4a06-4faf-95a8-903ee658eda9.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Layer Keymaps
 (blank spaces on joystick directions inherit the key from the previous layer)
 
 ![All Fulcrum Layers](photos/fulcrum-layout-all-layers-3.jpg)
