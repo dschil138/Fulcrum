@@ -18,6 +18,12 @@ There are currently two versions of the Fulcrum: the **20-key version** pictured
 
 *(NOTE: there is now a 34-key "beta" version as well)*
 
+## Fulcrum in the Media
+- [HackerNews](https://news.ycombinator.com/item?id=34656652)
+- [KBD.news (20 key)](https://kbd.news/Fulcrum-1862.html)
+- [KBD.news (40 key)](https://kbd.news/40-Fulcrum-1879.html)
+- [Hackaday.com](https://hackaday.com/2023/02/04/fulcrum-foils-finger-fatigue/)
+
 
 # Keyboard Features
 
