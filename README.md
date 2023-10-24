@@ -52,7 +52,7 @@ Most importantly, all of these actions are easily paired with other key presses 
 > 3.  The first few times you use them, you may find it hard to not move the whole board around a bit when pressing certain directions. This will go away after a day or two of getting used to the movements.
 
 
-## <img src="https://user-images.githubusercontent.com/11950317/215893696-86b11db0-47cf-4d86-9a37-f51a55ff4416.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Combos
+## <img src="https://user-images.githubusercontent.com/11950317/215893696-86b11db0-47cf-4d86-9a37-f51a55ff4416.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 35px; position: relative; top: 5px;" />  Combos
 A combo is when you press two or more keys at the same time to output a different key.
 
 The 20-key version of this keyboard uses a significant number of combos. You don't have to keep them all, but some are important.
@@ -62,7 +62,7 @@ Here is a guide to most of the important combos. They are generally split into c
 ![Important Combos Diagram](photos/important-combos-2.webp)
 
 
-## <img src="https://user-images.githubusercontent.com/11950317/215891383-edf34c6f-7595-4a83-b5a5-fbf6f6f37a64.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Word Keys
+## <img src="https://user-images.githubusercontent.com/11950317/215891383-edf34c6f-7595-4a83-b5a5-fbf6f6f37a64.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 35px; position: relative; top: 5px;" /> Word Keys
 
 We type the words "<ins>the</ins>" and "<ins>and</ins>" a lot. Even more-so if you include when they appear as a part of another word (<ins>the</ins>m, <ins>the</ins>y, ano<ins>the</ins>r).
 
@@ -84,7 +84,7 @@ To use them, print the top plate of the case as normal, and superglue the risers
 >
 >The custom angled keycaps for the thumb keys can be found in the STLs folder. They are a remix of the great [LPX](https://github.com/levpopov/LPX) design by levpopov.
 
-## <img src="https://user-images.githubusercontent.com/11950317/215578972-c86ecda2-9da5-4998-95ce-b986fa7c555d.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Rotary Encoders
+## <img src="https://user-images.githubusercontent.com/11950317/215578972-c86ecda2-9da5-4998-95ce-b986fa7c555d.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 35px; position: relative; top: 5px;" />  Rotary Encoders
 
 By default, the left rotary encoder scrubs through history (undo/redo) and the right side controls volume. Some other uses include tab switching, scrolling, and tool adjustment in apps like photoshop.
 
@@ -94,7 +94,7 @@ By default, the left rotary encoder scrubs through history (undo/redo) and the r
 
 # 🛠️ Build Guide
 
-## <img src="https://user-images.githubusercontent.com/11950317/215916322-911b9a37-554b-4d83-9109-c629533d7b1d.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Version Files
+## <img src="https://user-images.githubusercontent.com/11950317/215916322-911b9a37-554b-4d83-9109-c629533d7b1d.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 35px; position: relative; top: 5px;" />  Version Files
 
 There are currently two versions of the Fulcrum - the 20-key version you see in most of the photos above, and a 40-key version pictured below.
 
@@ -103,7 +103,7 @@ This repo contains the STLs and firmware files for both versions. The 40-key ver
 
 *(NOTE: there is now a 34-key "beta" version as well)*
 
-## <img src="https://user-images.githubusercontent.com/11950317/215355743-262b614e-b5da-4b19-846d-11fd102803bc.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  BOM
+## <img src="https://user-images.githubusercontent.com/11950317/215355743-262b614e-b5da-4b19-846d-11fd102803bc.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 35px; position: relative; top: 5px;" />  BOM
 
 | Part      | Quantity | Notes| 
 | :-------------- | :---: | :------ |
@@ -120,7 +120,7 @@ This repo contains the STLs and firmware files for both versions. The 40-key ver
 | Wire      |  | Recommend 30AWG or 28AWG|
 
 
-## <img src="https://user-images.githubusercontent.com/11950317/215355800-447ac92a-7cb6-4ce8-bda0-7092936c10ef.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" />  Wiring 
+## <img src="https://user-images.githubusercontent.com/11950317/215355800-447ac92a-7cb6-4ce8-bda0-7092936c10ef.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 35px; position: relative; top: 5px;" />  Wiring 
 While this is a split keyboard, I have chosen to hard-wire the halves together. You can follow my wiring if you'd like, or if you want to use a TRRS cable to connect the halves, KMK does offer I2C connection functionality.
 
 Note that the top key is wired as if it were part of the thumb key row.
@@ -128,7 +128,7 @@ Note that the top key is wired as if it were part of the thumb key row.
 
 There is also a [full wiring diagram](https://user-images.githubusercontent.com/11950317/218586755-9777235f-c6fa-4484-ac11-7d081c10044d.jpg) which shows the microcontroller connections
 
-## <img src="https://user-images.githubusercontent.com/11950317/215356807-121f3e62-efb0-4719-845c-02f793201d79.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Placing The Joysticks
+## <img src="https://user-images.githubusercontent.com/11950317/215356807-121f3e62-efb0-4719-845c-02f793201d79.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 35px; position: relative; top: 5px;" /> Placing The Joysticks
 
 The 5-way switches are mounted using an angled platform. It consists of two pieces which clamp around the base of the switch. The whole assembly is then superglued to the top of the case.
 
@@ -143,7 +143,7 @@ There is a small hole in the bottom of the platform piece. When you find the pla
 There is no PCB for this keyboard, it is a hand-wired build. But of course we all still want to be able to swap out different switches. So I've made printable hot-swap socket holders that allow you to do that. You can find the MX & Choc versions [here](https://www.printables.com/model/284057-hot-swap-socket-holders)
 
 ---
-# <img src="https://user-images.githubusercontent.com/11950317/220266343-88cfc19b-4a06-4faf-95a8-903ee658eda9.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 1.2em; position: relative; top: 0.2em;" /> Layer Keymaps
+# <img src="https://user-images.githubusercontent.com/11950317/220266343-88cfc19b-4a06-4faf-95a8-903ee658eda9.png" alt="Thumb joystick on 20 key Fulcrum" title="Thumb joystick on 20 key Fulcrum" style="height: 35px; position: relative; top: 5px;" /> Layer Keymaps
 (blank spaces on joystick directions inherit the key from the previous layer)
 
 ![All Fulcrum Layers](photos/fulcrum-layout-all-layers-3.jpg)
